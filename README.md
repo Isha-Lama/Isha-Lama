@@ -29,3 +29,5 @@ Here are some of the cool projects I've worked on:
 [![](https://visitcount.itsvg.in/api?id=Isha-Lama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3>✨Fun Fact: <h3>
+Coffee is my favorite programming language.☕➡️💡 
