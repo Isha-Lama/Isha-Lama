@@ -1,9 +1,10 @@
-## Hi👋, I'm Isha
+## 🌍 Hello, World! I'm Isha 👩‍💻✨
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer;UI%2FUX+Designer;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=I'm+a+Computer+Science+Student+🧠;I'm+a+Web+Developer+💻;I'm+a+UI%2FUX+Designer+🎨;I'm+a+Creative+Coder+🚀" alt="Typing SVG" />
 </p>
+
 
 
 
