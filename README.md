@@ -1,5 +1,15 @@
 ## Hi👋, I'm Isha
 
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer;UI%2FUX+Designer;Creative+Coder" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
 <h3>About Me</h3> 
 I'm a Computer Science student, passionate about software development, UX/UI design, and building engaging interactive experiences on the web.✨ 
 
