@@ -8,6 +8,7 @@
 
 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://www.ishaghising.com.np/)
 
 
 
