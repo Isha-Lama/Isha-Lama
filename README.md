@@ -25,6 +25,7 @@ I'm dedicated to continuously growing my skill set by learning new frameworks, t
 ## 🔧Projects
 Here are some of the cool projects I've worked on:
 <ul>
+ <li><b> 🧠[AI_Furnish]</b> ( https://github.com/Isha-Lama/AI_Furnish) →  Real-time personalized recommendations/Handles multiclass item categories.</li>
  <li><b> 🌿[Plant & Decor Store]</b> (https://github.com/Isha-Lama/PlantDecor) → An eCommerce platform for purchasing indoor plants and decor.</li>
  <li><b> 📖[Flourish e-Learning]</b> (https://github.com/Isha-Lama/Hackaverse-Project) → A fun, interactive platform for engaging and effective online learning.📚🎮</li>
  <li><b> 🎮[Console-Rush]</b> (https://github.com/Isha-Lama/Console-Rush) → A C++ console game, reminiscent of classic childhood racing games. 🏎️💨</li>
