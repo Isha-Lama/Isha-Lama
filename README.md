@@ -50,4 +50,4 @@ Here are some of the cool projects I've worked on:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3>✨Fun Fact: <h3>
-Coffee is my favorite programing language.☕➡️💡 
+Coffee is my favorite programming language.☕➡️💡 
